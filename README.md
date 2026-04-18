@@ -22,7 +22,9 @@ The core objective is to group data without prior labels, then apply a logical m
 ## ⚙️ Installation & Usage
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/YourUsername/Data-Clustering-Segmentation.git](https://github.com/YourUsername/Data-Clustering-Segmentation.git)
+   git clone [https://github.com/sarahalsamadi/
+Unsupervised-Learning-Segmentation.git](https://github.com/sarahalsamadi/
+Unsupervised-Learning-Segmentation.git)
 
 2. **Install required dependencies:**
    ```bash
